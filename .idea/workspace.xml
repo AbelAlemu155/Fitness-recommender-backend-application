@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e38ecda-f8da-4046-b533-c3a5df65aa35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ufd9JxhYRD4hXbzAWzD0hAOhS9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Workout" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Blogging" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app/Plan" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/Plan/Workout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Workout" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e38ecda-f8da-4046-b533-c3a5df65aa35" name="Default Changelist" comment="" />
+      <created>1625060425034</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625060425034</updated>
+      <workItem from="1625060426244" duration="151000" />
+      <workItem from="1625060579587" duration="11293000" />
+      <workItem from="1625079392365" duration="1177000" />
+      <workItem from="1625122341924" duration="3030000" />
+      <workItem from="1625129039396" duration="24904000" />
+      <workItem from="1625231368776" duration="1755000" />
+      <workItem from="1625233150632" duration="389000" />
+      <workItem from="1625233552299" duration="26470000" />
+      <workItem from="1625564097727" duration="18775000" />
+      <workItem from="1625825892519" duration="8542000" />
+      <workItem from="1625847377399" duration="5925000" />
+      <workItem from="1626092049947" duration="25465000" />
+      <workItem from="1626362243985" duration="18914000" />
+      <workItem from="1626515363376" duration="93516000" />
+      <workItem from="1627834447848" duration="4291000" />
+      <workItem from="1627998211099" duration="13898000" />
+      <workItem from="1628150284211" duration="3169000" />
+      <workItem from="1628183880347" duration="5780000" />
+      <workItem from="1628251583107" duration="9174000" />
+      <workItem from="1628494638910" duration="10899000" />
+      <workItem from="1628615225441" duration="31199000" />
+      <workItem from="1628705767538" duration="2533000" />
+      <workItem from="1628749004996" duration="1451000" />
+      <workItem from="1628759932008" duration="80197000" />
+      <workItem from="1629204473511" duration="14655000" />
+      <workItem from="1629275650011" duration="13810000" />
+      <workItem from="1629461243798" duration="17901000" />
+      <workItem from="1629799744059" duration="8082000" />
+      <workItem from="1629915929302" duration="8037000" />
+      <workItem from="1630051249783" duration="3695000" />
+      <workItem from="1630147263792" duration="8000" />
+      <workItem from="1630161071358" duration="15090000" />
+      <workItem from="1630328993178" duration="1412000" />
+      <workItem from="1630417775999" duration="1249000" />
+      <workItem from="1630649111860" duration="4500000" />
+      <workItem from="1630737555095" duration="23623000" />
+      <workItem from="1630825866138" duration="5701000" />
+      <workItem from="1630925852889" duration="7623000" />
+      <workItem from="1631009460391" duration="20148000" />
+      <workItem from="1631172263675" duration="1921000" />
+      <workItem from="1631254825414" duration="620000" />
+      <workItem from="1631268558544" duration="102000" />
+      <workItem from="1631268878509" duration="606000" />
+      <workItem from="1631288143428" duration="1208000" />
+      <workItem from="1631429157487" duration="12628000" />
+      <workItem from="1631517929695" duration="9239000" />
+      <workItem from="1631536968178" duration="5722000" />
+      <workItem from="1631553972310" duration="1598000" />
+      <workItem from="1631556139923" duration="625000" />
+      <workItem from="1631601536665" duration="236000" />
+      <workItem from="1631634250865" duration="6084000" />
+      <workItem from="1631686705437" duration="316000" />
+      <workItem from="1631687039067" duration="1356000" />
+      <workItem from="1631693406060" duration="6445000" />
+      <workItem from="1631778491744" duration="6414000" />
+      <workItem from="1631791048105" duration="6283000" />
+      <workItem from="1631805139228" duration="3125000" />
+      <workItem from="1631816107791" duration="41000" />
+      <workItem from="1631816165606" duration="2276000" />
+      <workItem from="1631879881648" duration="1267000" />
+      <workItem from="1631881915881" duration="13787000" />
+      <workItem from="1631945923543" duration="2460000" />
+      <workItem from="1631951265015" duration="8503000" />
+      <workItem from="1631979366802" duration="95000" />
+      <workItem from="1631979654757" duration="4404000" />
+      <workItem from="1631985591368" duration="1967000" />
+      <workItem from="1631988508586" duration="1558000" />
+      <workItem from="1632555224227" duration="3239000" />
+      <workItem from="1632559993219" duration="1407000" />
+      <workItem from="1632574369206" duration="1823000" />
+      <workItem from="1632582075942" duration="1211000" />
+      <workItem from="1632592764020" duration="2695000" />
+      <workItem from="1632636646760" duration="32221000" />
+      <workItem from="1632717895973" duration="4622000" />
+      <workItem from="1632730306382" duration="1375000" />
+      <workItem from="1632735337867" duration="5742000" />
+      <workItem from="1632749136007" duration="2709000" />
+      <workItem from="1632756244305" duration="14742000" />
+      <workItem from="1632775294317" duration="4600000" />
+      <workItem from="1647769937427" duration="1283000" />
+      <workItem from="1675957710490" duration="2945000" />
+      <workItem from="1676019372758" duration="2149000" />
+      <workItem from="1676023894490" duration="648000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="226" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1631901842492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="446" y="226" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1631901842492" />
+    <state x="611" y="303" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1628696541665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="611" y="303" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1536.824@0.0.1536.824" timestamp="1628696541665" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1632556840062">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1632556840062" />
+    <state x="478" y="14" width="579" height="795" key="find.popup" timestamp="1628882658239">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="478" y="14" width="579" height="795" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1628882658239" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1632659555009">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1632659555009" />
+  </component>
+</project>

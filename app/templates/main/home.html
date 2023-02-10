@@ -1,0 +1,25 @@
+{% extends 'main/base.html' %}
+{% import "_macros.html" as macros %}
+{% block content %}
+{{ super() }}
+    <h1>Hello, {{ current_user.username }}</h1>
+    <div class="container">
+ <div class="page-header">
+  {% if current_user.can(Permission.WRITE) %}
+       {% import "bootstrap/wtf.html" as wtf %}
+       {{ wtf.quick_form(form) }}
+      {% include "main/_posts.html" %}
+      <div class="pagination">
+ {{ macros.pagination_widget(pagination, 'main.index') }}
+</div>
+   {% endif %}
+ </div>
+</div>
+
+
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{{ pagedown.include_pagedown() }}
+{% endblock %}

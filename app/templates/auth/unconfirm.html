@@ -1,0 +1,10 @@
+{% extends "auth/base.html" %}
+{% block content %}
+<div class="container">
+ <div class="page-header">
+     <h1> Welcome, {{ current_user.username}}</h1>
+     <h2>Confirm your account to access the website</h2>
+     <p> Use this link to resend confirmation email, <a href="url_for('auth.resend_confirmation')">Click here</a></p>
+ </div>
+</div>
+{% endblock %}
